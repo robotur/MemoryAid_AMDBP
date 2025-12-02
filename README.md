@@ -1,26 +1,18 @@
 # MemoryAid — AMD Blueprint Competition
 
-MemoryAid is a compact, affordable, and accessible digital notetaker designed for moments when ideas appear suddenly. Instead of reaching for a phone or notebook, users can record a note instantly through a small wearable or clip-on device. It’s built for people who frequently forget tasks or want a fast, low-effort way to capture information.
+MemoryAid is a compact and affordable digital notetaker designed for moments when ideas appear suddenly. Instead of reaching for a phone or notebook, users can record a note instantly from a small device worn or kept close at hand. It aims to support people who often forget tasks or lose track of ideas by giving them a simple and reliable tool.
 
 ## Overview
 
-- **Quick Voice Capture:** Users can say short trigger phrases like “mat 32” during class or daily routines.  
-  When the device connects to the internet, these clips are sent to the cloud, where an AI service processes them into clear notes such as:  
-  *“You have homework from Tuesday’s math class.”*
-
-- **Cloud-Based Processing:** To save battery and keep the device simple, all language processing happens in the cloud. The device only records and sends small audio snippets when online.
-
-- **Compact & Low Cost:** Uses inexpensive components and a simple design, making it lightweight, discreet, and easy to carry.
-
-- **Modular Design:** Different attachments or modules (clip, lanyard, wearable mount) allow users to configure the device to their lifestyle.
-
-- **Wireless Charging:** The device supports wireless charging for convenience and daily use without cables.
+- **Instant Access:** The device can be clipped to clothing, a bag, or kept near the mouth so notes can be taken the moment something comes to mind.
+- **Small & Low Cost:** Built with inexpensive components and a minimal design to keep it lightweight, discreet, and easy to carry.
+- **Voice-Based Input:** Users can record short notes with a single button press or quick voice activation, removing the need for screens or menus.
+- **Straightforward Storage:** Notes are saved digitally for later review or transfer to another device.
 
 ## Why MemoryAid?
 
-Writing notes or unlocking a phone during a busy moment can cause important thoughts to disappear. MemoryAid solves this by being always reachable and able to store information quickly without interrupting the user’s flow.  
-Short voice cues become complete, organized notes once processed in the cloud.
+Many people lose track of ideas simply because writing them down takes too long. MemoryAid solves this by being always within reach and ready in seconds, preserving information exactly as the user remembers it.
 
 ## Goal
 
-To provide a fast, practical, and accessible way to preserve information exactly when the user remembers it, improving time management and reducing forgetfulness through a simple and reliable device.
+To provide an accessible, practical, and low-effort way to capture and preserve information, helping users manage their time and daily tasks more effectively.
